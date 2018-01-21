@@ -16,7 +16,7 @@ const data = {
   accountData: undefined,
   currentNodeInfo: undefined,
   host: 'http://localhost',
-  port: 14265,
+  port: 14625,
   user: '',
   pass: '',
   depth: 3,
