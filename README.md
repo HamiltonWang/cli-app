@@ -10,7 +10,7 @@ You need:
 
 To install:
 ```
-$ git clone https://github.com/plenarius/cli-app
+$ git clone https://github.com/HamiltonWang/cli-app
 $ cd cli-app
 $ npm install
 ```
